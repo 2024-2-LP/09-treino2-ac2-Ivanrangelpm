@@ -12,6 +12,8 @@ public class Avaliacao {
         this.qtdEstrelas = qtdEstrelas;
     }
 
+
+
     public String getDescricao() {
         return descricao;
     }
